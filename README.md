@@ -1,3 +1,5 @@
+**rewrite of PixlOne's logiops, by TrevCan**
+
 # logiops
 
 This is an unofficial driver for Logitech mice and keyboard.
